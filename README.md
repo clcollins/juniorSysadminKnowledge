@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # What does a Junior Sysadmin need to know?
 
 With the guidance of a good mentor, only three key skills are required for a junior sysadmin. It is not how to restart a webserver, or how Linux manages memory. Whether or not the junior admin can answer classic interview question "Can you explain what happens when you request a webpage in your browser?" is not important. With the exception of perhaps a bit of familiarity with the command line, there are only really three things a junior admin needs to know.
